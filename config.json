@@ -1,0 +1,8 @@
+{
+  "port": 8040,
+  "host": "0.0.0.0",
+  "database": "dynamodb",
+  "region_name": "eu-central-1",
+  "endpoint_url": "http://localhost:8000",
+  "table_name": "netinfo_roles"
+}
